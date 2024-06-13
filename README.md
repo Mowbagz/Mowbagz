@@ -18,7 +18,7 @@
 [<img align="left" alt="SaschaAegerter | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="SaschaAegerter | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
+[x]: https://x.com/mowbagzbadpantz
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/mowbagz_badpantz/
 [linkedin]: www.linkedin.com/in/sascha-aegerter
