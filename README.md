@@ -6,7 +6,7 @@
 
 <h2>📄 Certifications </h2>
 
-- [Google Cybersecurity Certificate] (https://www.credly.com/badges/774ca6a3-6758-4fc7-83bd-c3081acedb85/linked_in?t=se5hxw)
+- [Google Cybersecurity Certificate](https://www.credly.com/badges/774ca6a3-6758-4fc7-83bd-c3081acedb85/linked_in?t=se5hxw)
 - [CompTia Security+]
 - [Qualys Vulnerability Management Certificate]
 - [RESPUESTA A INCIDENTES DE CIBERSEGURIDAD] 
